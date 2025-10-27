@@ -1,0 +1,39 @@
+1. Primero, cambie los nombres de las páginas del inglés al español en el index.html
+<ul>
+	<li><a href="generic.html">Genérico</a></li>
+	<li><a href="contact.html">Contacto</a></li>
+	<li><a href="elements.html">Elementos</a></li>
+	<li>
+	<li><a href="#">Opcion 1</a></li>
+	<li><a href="#">Opcion 2</a></li>
+	<li><a href="#">Opcion 3</a></li>
+	<li><a href="#">Opcion 4</a></li>
+</ul>
+
+2. Cambie la imagen original por una imagen aleatoria de Pinterest, descarge la imagen y le cambie el nombre para que coincida con la de la ruta
+3. Cambie el banner de arriba por otra iamgen aleatoria, cambie el código de los iconos para cambiar colores y quitarlos. Además, tambien cambie el texto en el index
+
+<section>
+	<span class="icon solid major fa-book accent2" style="color: purple "></span>
+	<h3>Proyecto de clase</h3>
+		<p>Texto cambiado</p>
+</section>
+<section>
+	<span class="icon solid major fa-heart-area accent3"></span>
+	<h3>IProyeco de clase</h3>
+		<p> Texto cambiado</p>
+	</section>
+
+4. Cambie el texto que aparece en generic.html
+<h3>Proyecto de clase</h3>
+<p> Texto cambiado</p>
+<div class="row">
+<div class="row-6 row-12-mobilep">
+<h3>Proyecto de clase</h3>
+<p>Texto cambiado </p>
+</div>
+<div class="row-6 row-12-mobilep">
+<h3>Proyecto de clase</h3>
+<p>Texto cambiado</p>
+
+5. Cambie las imagenes pic04 y pic05 por imagenes aleatorias de Pinterest.
