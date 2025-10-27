@@ -1,3 +1,6 @@
+Enlace GitHub: https://github.com/ritaVD/html5up-alpha
+
+
 1. Primero, cambie los nombres de las páginas del inglés al español en el index.html
 <ul>
 	<li><a href="generic.html">Genérico</a></li>
